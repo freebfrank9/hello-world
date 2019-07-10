@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone.
+Freeborn here, am a mobile web specialist.
+Am also a mining Engineer from the federal University of technology akure.
